@@ -83,7 +83,7 @@ This dashboard provides **actionable insights** to improve ER efficiency and ser
 ---
 
 ## 📷 Dashboard Preview
-![Hospital Emergency Room Dashboard](./file:///C:/Users/Sweta/Desktop/hera.pdf)
+![Hospital Emergency Room Dashboard](./hera.pdf)
 
 ---
 
