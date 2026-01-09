@@ -146,7 +146,7 @@ All visuals dynamically update based on selected filters.
 ---
 
 ## 📷 Dashboard Preview
-![Hospital Emergency Room Dashboard](./dashboard_screenshot.png)
+![Hospital Emergency Room Dashboard](hera.pdf)
 
 ---
 
